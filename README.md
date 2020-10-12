@@ -5,6 +5,6 @@
 - Numpy
 - Pandas
 - Matplotlib
-### Models Used
+### CNN Based Models Used
 - Discriminator
 - Generator
